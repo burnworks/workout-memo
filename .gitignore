@@ -83,3 +83,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# package
+package.json
+package-lock.json
+
+# git
+.gitattributes
+.gitignore
