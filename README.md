@@ -10,3 +10,4 @@ workout/workout.json
 
 - workout_type -> "Personal" = パーソナルトレーニング / "Home" = ホームトレーニング
 - Weight -> バーベルの場合は総重量、ダンベルの場合は片手重量を記載。ケーブルマシンは lb 表記のため、kg に換算
+- コミットメッセージにその時点での Big3 メインセット重量を書いておこうと思う（例： 10RM = BP: 60kg / SQ: 70kg / DL: 80kg）
